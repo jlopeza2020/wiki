@@ -21,7 +21,7 @@ Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi
 ### 3. Resultado de la práctica
 Aquí podrás ver el aspecto que tiene el resultado de la práctica:
 
-![LED encendido](https://urjc-my.sharepoint.com/personal/j_lopeza_2020_alumnos_urjc_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fj%5Flopeza%5F2020%5Falumnos%5Furjc%5Fes%2FDocuments%2F20210926%5F213848%2Ejpg&parent=%2Fpersonal%2Fj%5Flopeza%5F2020%5Falumnos%5Furjc%5Fes%2FDocuments "LED encendido")
+![LED encendido](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EQ7IFu2oclhBqMuYbiqYapUBICTX7lh-2inbJkgJxTJ2Hw?e=aIrUog "LED encendido")
 
 # Semana del 27 de Septiembre al 3 de octubre
 Esta semana hemos empezado el tema de introducción  de teoría.
