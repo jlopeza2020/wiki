@@ -9,17 +9,13 @@ El miércoles 22 nos entregaron un kit muy completo para la realización de las 
 
 ## Práctica 1
 ### 1. Mi nuevo setup.
-Como mi portátil no tiene entrada HDMI para poder conectar la Raspberry, he tenido que mudarme de habitación y usar una televisión como monitor. A continuación podrás ver mi nuevo setup.
-
-![mi nuevo setup](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EeoXF4C1aSFDiAmPsloRfRQBEzCc6Jkvx6oTKzvqPvufiA?e=F9Q62L "Mi setup")
+Como mi portátil no tiene entrada HDMI para poder conectar la Raspberry, he tenido que mudarme de habitación y usar una televisión como monitor. A continuación podrás ver [mi nuevo setup.](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EeoXF4C1aSFDiAmPsloRfRQBEzCc6Jkvx6oTKzvqPvufiA?e=F9Q62L)
 
 ### 2. Implementación de la práctica
-Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. Así me ha quedado:
-
-![LED](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EfxPA1Fw5eVKqEATeS533-YBhmCenmtPb7iFoSv-SZj8-g?e=CMVlQ1 "Instalación del LED")
+Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. [Así](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EfxPA1Fw5eVKqEATeS533-YBhmCenmtPb7iFoSv-SZj8-g?e=CMVlQ1) me ha quedado.
 
 ### 3. Resultado de la práctica
-[Aquí] (https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EQ7IFu2oclhBqMuYbiqYapUBICTX7lh-2inbJkgJxTJ2Hw?e=aIrUog) podrás ver el aspecto que tiene el resultado de la práctica:
+[Aquí](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EQ7IFu2oclhBqMuYbiqYapUBICTX7lh-2inbJkgJxTJ2Hw?e=aIrUog) podrás ver el aspecto que tiene el resultado de la práctica:
 
 # Semana del 27 de Septiembre al 3 de octubre
 Esta semana hemos empezado el tema de introducción  de teoría.
