@@ -5,7 +5,7 @@ Bienvenid@ a mi wiki de la asignatura sensores y actuadores, aquí podrás encon
 Durante esta semana se produjo la presentación a la asignatura y la explicación del funcionamiento del sistema de entregas a través de git. También se nos presntó la práctica 0 (no entregable) para familiarizarnos con este sistema. 
 
 # Semana del 20 al 26 de septiembre
-El miércoles 22 nos entregaron un kit muy completo para la realización de las prácticas y el jueves 23 nos explicaron cómo instalar Rasbian dentro de las Raspberry aunque muchos tuvimos problemas en esa sesión, por la tarde lo pude solucionar. Además, Julio nos indicó cómo realizar la práctica 1 que tendremos que entregar en 2 semanas: 
+El miércoles 22 nos entregaron un kit muy completo para la realización de las prácticas y el jueves 23 nos explicaron cómo instalar Rasbian dentro de la Raspberry aunque muchos tuvimos problemas en esa sesión, por la tarde lo pude solucionar. Además, Julio nos indicó cómo realizar la práctica 1 que tendremos que entregar en 2 semanas: 
 
 ## Práctica 1
 ### 1. Mi nuevo setup.
