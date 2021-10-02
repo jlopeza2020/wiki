@@ -11,7 +11,7 @@ El miércoles 22 nos entregaron un kit muy completo para la realización de las 
 ### 1. Mi nuevo setup.
 Como mi portátil no tiene entrada HDMI para poder conectar la Raspberry, he tenido que mudarme de habitación y usar una televisión como monitor. A continuación podrás ver mi nuevo setup.
 
-![mi nuevo setup](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EeoXF4C1aSFDiAmPsloRfRQBEzCc6Jkvx6oTKzvqPvufiA?e=2njj8K "Mi setup")
+![mi nuevo setup](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EeoXF4C1aSFDiAmPsloRfRQBEzCc6Jkvx6oTKzvqPvufiA?e=F9Q62L "Mi setup")
 
 ### 2. Implementación de la práctica
 Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. Así me ha quedado:
