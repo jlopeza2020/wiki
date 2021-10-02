@@ -27,4 +27,4 @@ Aquí podrás ver el aspecto que tiene el resultado de la práctica:
 Esta semana hemos empezado el tema de introducción  de teoría.
 
 
-Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
+### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
