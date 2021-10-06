@@ -9,14 +9,17 @@ El miércoles 22 nos entregaron un kit muy completo para la realización de las 
 
 ## Práctica 1
 ### 1. Mi nuevo setup.
-Como mi portátil no tiene entrada HDMI para poder conectar la Raspberry, he tenido que mudarme de habitación y usar una televisión como monitor. A continuación podrás ver [mi nuevo setup.](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EeoXF4C1aSFDiAmPsloRfRQBEzCc6Jkvx6oTKzvqPvufiA?e=F9Q62L)
+Como mi portátil no tiene entrada HDMI para poder conectar la Raspberry, he tenido que mudarme de habitación y usar una televisión como monitor. A continuación podrás ver mi nuevo setup:
+![setup](https://github.com/jlopeza2020/wiki/blob/main/setup.jpg "setup")
 
 ### 2. Implementación de la práctica
-Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. [Así](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EfxPA1Fw5eVKqEATeS533-YBhmCenmtPb7iFoSv-SZj8-g?e=CMVlQ1) me ha quedado.
+Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. Así me ha quedado:
+![led_montado](https://github.com/jlopeza2020/wiki/blob/main/led_montado.jpg "LED montado")
 
 ### 3. Resultado de la práctica
 Aquí podrás ver el aspecto que tiene el resultado de la práctica:
-![led encendido](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EQ7IFu2oclhBqMuYbiqYapUBWk3Cq2AwVSF3R3Bqyg8_tg?e=vYY3OR "LED encendido")
+![led encendido](https://github.com/jlopeza2020/wiki/blob/main/led_encendido.jpg "LED encendido")
+
 # Semana del 27 de Septiembre al 3 de Octubre
 Esta semana hemos empezado el tema de introducción  de teoría.
 
