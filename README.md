@@ -17,8 +17,14 @@ Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi
 ### 3. Resultado de la práctica
 Aquí podrás ver el aspecto que tiene el resultado de la práctica:
 ![led encendido](https://urjc-my.sharepoint.com/:i:/g/personal/j_lopeza_2020_alumnos_urjc_es/EQ7IFu2oclhBqMuYbiqYapUBWk3Cq2AwVSF3R3Bqyg8_tg?e=vYY3OR "LED encendido")
-# Semana del 27 de Septiembre al 3 de octubre
+# Semana del 27 de Septiembre al 3 de Octubre
 Esta semana hemos empezado el tema de introducción  de teoría.
+
+# Semana del 4 de Octubre al 10 de Octubre
+El 6 de Octubre hemos acabado el tema de introducción y nos han pedido hacer la práctica 2:
+
+## Practica 2:
+
 
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
