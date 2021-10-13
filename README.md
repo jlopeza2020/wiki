@@ -26,7 +26,12 @@ Esta semana hemos empezado el tema de introducción  de teoría.
 # Semana del 4 de Octubre al 10 de Octubre
 El 6 de Octubre hemos acabado el tema de introducción y nos han pedido hacer la práctica 2:
 ## Practica 2:
-
+### 1. Implementación de la práctica
+En este caso he decidido elegir los pines 36, 38 y 40 a diferencia de los marcados por el profe. A continuación, podrás ver cómo me ha quedado:
+![led RGB montado](https://github.com/jlopeza2020/wiki/blob/main/implementacion_p2.jpeg "LED RGB montado")
+### 2. Ejemplo de la práctica
+Como la realización de la misma es ir jugando con los distintos tipos de colores que se pueden formar y no se puede captar en una foto todos a la vez, he decidido mostrate el color Rojo:
+![ejemplo con led Rojo](https://github.com/jlopeza2020/wiki/blob/main/ejemplo_p2.jpeg "Ejemplo con el LED  rojo")
 
 
 
