@@ -25,9 +25,15 @@ Esta semana hemos empezado el tema de introducción  de teoría.
 
 # Semana del 4 de Octubre al 10 de Octubre
 El 6 de Octubre hemos acabado el tema de introducción y nos han pedido hacer la práctica 2:
-
 ## Practica 2:
 
+
+
+
+
+El 7 de Octubre hemos dado la primera parte del tema 2.
+# Semana del 11 de Octubre al 17 de Octubre
+El 13 de Octubre hemos acabado el tema 2 en el que hemos aprendido cómo funcionan los acondicionadores de señal y muchas propiedades y aplicaciones al respecto.
 
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
