@@ -33,12 +33,9 @@ En este caso he decidido elegir los pines 36, 38 y 40 a diferencia de los marcad
 Como la realización de la misma es ir jugando con los distintos tipos de colores que se pueden formar y no se puede captar en una foto todos a la vez, he decidido mostrate el color Rojo:
 ![ejemplo con led Rojo](https://github.com/jlopeza2020/wiki/blob/main/p2_ledrojo.jpg "Ejemplo con el LED  rojo")
 
-
-
-
 El 7 de Octubre hemos dado la primera parte del tema 2.
 # Semana del 11 de Octubre al 17 de Octubre
 El 13 de Octubre hemos acabado el tema 2 en el que hemos aprendido cómo funcionan los acondicionadores de señal y muchas propiedades y aplicaciones al respecto.
-
+El 14 de Octubre se nos ha pedido realizar la práctica 3 que trata sobre las interrupciones.
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
