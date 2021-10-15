@@ -27,7 +27,7 @@ Esta semana hemos empezado el tema de introducción  de teoría.
 El 6 de Octubre hemos acabado el tema de introducción y nos han pedido hacer la práctica 2:
 ## Practica 2:
 ### 1. Implementación de la práctica
-En este caso he decidido elegir los pines 36, 38 y 40 a diferencia de los marcados por el profe y he usado 3 resistencias de 150 ohmios. A continuación, podrás ver cómo me ha quedado:
+En este caso he decidido elegir los pines 36, 38 y 40 a diferencia de los marcados por el profe y he usado 3 resistencias de 150 ohmios. A continuación, podrás ver cómo me ha quedado (El orden de los cables colocados es de RBG ya que los colores que da el LED están colocados así)
 ![led RBG montado](https://github.com/jlopeza2020/wiki/blob/main/p2_implementacion.jpg "LED RBG montado")
 ### 2. Ejemplo de la práctica
 Como la realización de la misma es ir jugando con los distintos tipos de colores que se pueden formar y no se puede captar en una foto todos a la vez, he decidido mostrate el color Rojo:
