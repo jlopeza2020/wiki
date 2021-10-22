@@ -36,6 +36,14 @@ Como la realización de la misma es ir jugando con los distintos tipos de colore
 El 7 de Octubre hemos dado la primera parte del tema 2.
 # Semana del 11 de Octubre al 17 de Octubre
 El 13 de Octubre hemos acabado el tema 2 en el que hemos aprendido cómo funcionan los acondicionadores de señal y muchas propiedades y aplicaciones al respecto.
-El 14 de Octubre se nos ha pedido realizar la práctica 3 que trata sobre las interrupciones.
+El 14 de Octubre se nos ha pedido realizar la práctica 3 que trata sobre las interrupciones:
+
+## Práctica 3:
+### 1. Implementación de la práctica
+
+
+# Semana del 18 al 24 de Octubre
+El miércoles 20 dimos la primera parte del tema 3: Sensores de velocidad, posición y aceleración. Vimos el potenciómetro, el tacogenerador y el LVDT.
+EL jueves 21 acabamos ese tema y se nos ha introducido cómo hacer la práctica 4.
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
