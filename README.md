@@ -41,8 +41,10 @@ El 14 de Octubre se nos ha pedido realizar la práctica 3 que trata sobre las in
 ## Práctica 3:
 ### 1. Implementación del ejercicio 1
 Según aparece descrito en el enunciado de la práctica (**p3.pdf**), he utilizado la misma implementación que ha usado Julio.
-![boton](https://github.com/jlopeza2020/wiki/blob/main/p3.jpg "Botón")                                                 
+![boton](https://github.com/jlopeza2020/wiki/blob/main/eje1_p3.jpg "Botón")                                                 
 ### 2. Implementación del ejercicio 2
+En este ejercicio había que rediseñar el diseño del ejercicio 1 para poder hacer 2 pulsadores y que cada uno tenga un LED asignado y se puedan gestionar de manera independiente. Este es el resultado:
+![ejercicio2](https://github.com/jlopeza2020/wiki/blob/main/eje2_p3.jpg "Ejercicio 2")
 
 
 # Semana del 18 al 24 de Octubre
