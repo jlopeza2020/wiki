@@ -39,7 +39,10 @@ El 13 de Octubre hemos acabado el tema 2 en el que hemos aprendido cómo funcion
 El 14 de Octubre se nos ha pedido realizar la práctica 3 que trata sobre las interrupciones:
 
 ## Práctica 3:
-### 1. Implementación de la práctica
+### 1. Implementación del ejercicio 1
+Según aparece descrito en el enunciado de la práctica (**p3.pdf**), he utilizado la misma implementación que ha usado Julio.
+![boton](https://github.com/jlopeza2020/wiki/blob/main/p3.jpg "Botón")                                                 
+### 2. Implementación del ejercicio 2
 
 
 # Semana del 18 al 24 de Octubre
