@@ -51,4 +51,7 @@ En este ejercicio había que rediseñar el diseño del ejercicio 1 para poder ha
 El miércoles 20 dimos la primera parte del tema 3: Sensores de velocidad, posición y aceleración. Vimos el potenciómetro, el tacogenerador y el LVDT.
 EL jueves 21 acabamos ese tema y se nos ha introducido cómo hacer la práctica 4.
 
+# Semana del 25 al 31 de Octubre 
+El miércoles 27 hemos podido disponer de la clase para empezar la práctica 4 que trata de arreglar los errores producidos en la práctica 3.
+
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
