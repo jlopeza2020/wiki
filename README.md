@@ -57,7 +57,7 @@ El jueves 28 hemos introducido y tenido toda la clase para empezar con la práct
 ## Práctica 5:
 ### 1.Implementación del divisor de tensiones
 En el README de la práctica podrás haber leído que he usado las resistencias de 330 ohmios y de 470 ohmios y que a nivel de calcularlo con la calculadora he obtenido unos valores de 2,9 ohmios pero que usando el multímetro los valores son aproximadamente de 3.2 ohmios. A continuación, podrás ver unas imágenes de lo que acabo de describir:
-![divisor de voltaje]( "Divisor de voltaje")
-![cálculo de Vout]( "Cálculo de Vout")
+![divisor de voltaje](https://github.com/jlopeza2020/wiki/blob/main/divisor_voltaje.jpg "Divisor de voltaje")
+![cálculo de Vout](https://github.com/jlopeza2020/wiki/blob/main/demostracion.jpg "Cálculo de Vout")
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
