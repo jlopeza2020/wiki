@@ -53,5 +53,11 @@ EL jueves 21 acabamos ese tema y se nos ha introducido cómo hacer la práctica 
 
 # Semana del 25 al 31 de Octubre 
 El miércoles 27 hemos podido disponer de la clase para empezar la práctica 4 que trata de arreglar los errores producidos en la práctica 3.
+El jueves 28 hemos introducido y tenido toda la clase para empezar con la práctica 5 que trata sobre conocer el funcionamiento de un sensor óptico para construir un encoder incremental.
+## Práctica 5:
+### 1.Implementación del divisor de tensiones
+En el README de la práctica podrás haber leído que he usado las resistencias de 330 ohmios y de 470 ohmios y que a nivel de calcularlo con la calculadora he obtenido unos valores de 2,9 ohmios pero que usando el multímetro los valores son aproximadamente de 3.2 ohmios. A continuación, podrás ver unas imágenes de lo que acabo de describir:
+![divisor de voltaje]( "Divisor de voltaje")
+![cálculo de Vout]( "Cálculo de Vout")
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
