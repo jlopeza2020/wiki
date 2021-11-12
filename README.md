@@ -60,6 +60,9 @@ En el README de la práctica podrás haber leído que he usado las resistencias 
 ![divisor de voltaje](https://github.com/jlopeza2020/wiki/blob/main/divisor_voltaje.jpg "Divisor de voltaje")
 ![cálculo de Vout](https://github.com/jlopeza2020/wiki/blob/main/demostracion.jpg "Cálculo de Vout")
 
+### 2.Implementación de la práctica completa 
+A continuación podrás ver imágenes del circuito, con y sin encoder para ver mejor las conexiones a la placa:
+
 # Semana del 1 al 7 de octubre 
 EL miércoles 3 de noviembre dimos el tema 4 de teoría que trata de los sensores de Color, luz y visión  y el jueves 4 se nos ha introducido y dejadotodala clase para empezar la práctica 6 que trata sobre el sensor ultrasonidos.
 ## Práctica 6:
