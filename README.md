@@ -8,15 +8,12 @@ Durante esta semana se produjo la presentación a la asignatura y la explicació
 El miércoles 22 nos entregaron un kit muy completo para la realización de las prácticas y el jueves 23 nos explicaron cómo instalar Rasbian dentro de la Raspberry aunque muchos tuvimos problemas en esa sesión, por la tarde lo pude solucionar. Además, Julio nos indicó cómo realizar la práctica 1 que tendremos que entregar en 2 semanas: 
 
 ## Práctica 1
-### 1. Mi nuevo setup.
-Como mi portátil no tiene entrada HDMI para poder conectar la Raspberry, he tenido que mudarme de habitación y usar una televisión como monitor. A continuación podrás ver mi nuevo setup:
-![setup](https://github.com/jlopeza2020/wiki/blob/main/setup.jpg "setup")
 
-### 2. Implementación de la práctica
+### 1. Implementación de la práctica
 Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. Así me ha quedado:
 ![led_montado](https://github.com/jlopeza2020/wiki/blob/main/led_montado.jpg "LED montado")
 
-### 3. Resultado de la práctica
+### 2. Resultado de la práctica
 Aquí podrás ver el aspecto que tiene el resultado de la práctica:
 ![led encendido](https://github.com/jlopeza2020/wiki/blob/main/led_encendido.jpg "LED encendido")
 
@@ -57,11 +54,11 @@ El jueves 28 hemos introducido y tenido toda la clase para empezar con la práct
 ## Práctica 5:
 ### 1.Implementación del divisor de tensiones
 En el README de la práctica podrás haber leído que he usado las resistencias de 330 ohmios y de 470 ohmios y que a nivel de calcularlo con la calculadora he obtenido unos valores de 2,9 ohmios pero que usando el multímetro los valores son aproximadamente de 3.2 ohmios. A continuación, podrás ver unas imágenes de lo que acabo de describir:
-![divisor de voltaje](https://github.com/jlopeza2020/wiki/blob/main/divisor_voltaje.jpg "Divisor de voltaje")
 ![cálculo de Vout](https://github.com/jlopeza2020/wiki/blob/main/demostracion.jpg "Cálculo de Vout")
 
 ### 2.Implementación de la práctica completa 
-A continuación podrás ver imágenes del circuito, con y sin encoder para ver mejor las conexiones a la placa:
+A continuación podrás ver imágenes del circuito con encoder:
+
 
 # Semana del 1 al 7 de octubre 
 EL miércoles 3 de noviembre dimos el tema 4 de teoría que trata de los sensores de Color, luz y visión  y el jueves 4 se nos ha introducido y dejadotodala clase para empezar la práctica 6 que trata sobre el sensor ultrasonidos.
