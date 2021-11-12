@@ -9,12 +9,8 @@ El miércoles 22 nos entregaron un kit muy completo para la realización de las 
 
 ## Práctica 1
 
-### 1. Implementación de la práctica
+### 1. Implementación  y resultado de la práctica
 Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. Así me ha quedado:
-![led_montado](https://github.com/jlopeza2020/wiki/blob/main/led_montado.jpg "LED montado")
-
-### 2. Resultado de la práctica
-Aquí podrás ver el aspecto que tiene el resultado de la práctica:
 ![led encendido](https://github.com/jlopeza2020/wiki/blob/main/led_encendido.jpg "LED encendido")
 
 # Semana del 27 de Septiembre al 3 de Octubre
