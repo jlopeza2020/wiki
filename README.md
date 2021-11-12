@@ -54,6 +54,7 @@ En el README de la práctica podrás haber leído que he usado las resistencias 
 
 ### 2.Implementación de la práctica completa 
 A continuación podrás ver imágenes del circuito con encoder:
+![implementación con encoder](https://github.com/jlopeza2020/wiki/blob/main/conEncoder.jpg "Implementación con Encoder")
 
 
 # Semana del 1 al 7 de octubre 
