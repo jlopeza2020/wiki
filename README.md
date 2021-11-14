@@ -68,6 +68,6 @@ El miércoles 10 de noviembre hemos dado el tema 5 de teoría y el jueves 11 hem
 ## Práctica 7:
 ### 1. Implementación de la práctica
 En la imagen se puede ver un LED rojo, una resistencia de 220 ohmios, un interruptor de lengüeta y el imán usado para inducir sobre el interruptor. 
-
+![implementación p7](https://github.com/jlopeza2020/wiki/blob/main/p7.jpg "implementación p7")
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
