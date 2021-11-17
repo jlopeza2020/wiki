@@ -58,10 +58,11 @@ A continuación podrás ver imágenes del circuito con encoder:
 
 
 # Semana del 1 al 7 de octubre 
-EL miércoles 3 de noviembre dimos el tema 4 de teoría que trata de los sensores de Color, luz y visión  y el jueves 4 se nos ha introducido y dejado toda la clase para empezar la práctica 6 que trata sobre el sensor ultrasonidos.
+EL miércoles 3 de noviembre dimos el tema 4 de teoría que trata de los sensores de Color, luz y visión  y el jueves 4 se nos ha introducido y dejado toda la clase para empezar la práctica 6 que trata sobre el sensor de ultrasonidos.
 ## Práctica 6:
 ### 1. Implementación de la práctica
-
+En la imagen se puede ver el sensor de ultrasonidos y los tres Ledes que se pedían para la realización del ejercicio.
+![implementación p6](https://github.com/jlopeza2020/wiki/blob/main/p6.jpg "implementación p6")
 
 # Semana del 8 al 14 de noviembre
 El miércoles 10 de noviembre hemos dado el tema 5 de teoría y el jueves 11 hemos tenido toda la clase para hacer la práctica 7 que trata del interruptor de lengüeta (o reed switch).
@@ -69,5 +70,8 @@ El miércoles 10 de noviembre hemos dado el tema 5 de teoría y el jueves 11 hem
 ### 1. Implementación de la práctica
 En la imagen se puede ver un LED rojo, una resistencia de 220 ohmios, un interruptor de lengüeta y el imán usado para inducir sobre el interruptor. 
 ![implementación p7](https://github.com/jlopeza2020/wiki/blob/main/p7.jpg "implementación p7")
+
+# Semana del 15 al 21 de noviembre
+El miércoles 17 de noviembre se nos ha introducido el tema 6
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
