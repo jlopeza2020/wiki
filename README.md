@@ -6,9 +6,7 @@ Durante esta semana se produjo la presentación a la asignatura y la explicació
 
 # Semana del 20 al 26 de Septiembre
 El miércoles 22 nos entregaron un kit muy completo para la realización de las prácticas y el jueves 23 nos explicaron cómo instalar Rasbian dentro de la Raspberry aunque muchos tuvimos problemas en esa sesión, por la tarde lo pude solucionar. Además, Julio nos indicó cómo realizar la práctica 1 que tendremos que entregar en 2 semanas: 
-
 ## Práctica 1
-
 ### 1. Implementación  y resultado de la práctica
 Como indica el PDF, he reconstruido el esquema que se me proponía del LED en mi protoboard conectada a la Raspberry. Así me ha quedado:
 ![led encendido](https://github.com/jlopeza2020/wiki/blob/main/led_encendido.jpg "LED encendido")
@@ -30,7 +28,6 @@ El 7 de Octubre hemos dado la primera parte del tema 2.
 # Semana del 11 de Octubre al 17 de Octubre
 El 13 de Octubre hemos acabado el tema 2 en el que hemos aprendido cómo funcionan los acondicionadores de señal y muchas propiedades y aplicaciones al respecto.
 El 14 de Octubre se nos ha pedido realizar la práctica 3 que trata sobre las interrupciones:
-
 ## Práctica 3:
 ### 1. Implementación del ejercicio 1
 Según aparece descrito en el enunciado de la práctica (**p3.pdf**), he utilizado la misma implementación que ha usado Julio.
@@ -38,7 +35,6 @@ Según aparece descrito en el enunciado de la práctica (**p3.pdf**), he utiliza
 ### 2. Implementación del ejercicio 2
 En este ejercicio había que rediseñar el diseño del ejercicio 1 para poder hacer 2 pulsadores y que cada uno tenga un LED asignado y se puedan gestionar de manera independiente. Este es el resultado:
 ![ejercicio2](https://github.com/jlopeza2020/wiki/blob/main/eje2_p3.jpg "Ejercicio 2")
-
 
 # Semana del 18 al 24 de Octubre
 El miércoles 20 dimos la primera parte del tema 3: Sensores de velocidad, posición y aceleración. Vimos el potenciómetro, el tacogenerador y el LVDT.
@@ -55,7 +51,6 @@ En el README de la práctica podrás haber leído que he usado las resistencias 
 ### 2.Implementación de la práctica completa 
 A continuación podrás ver imágenes del circuito con encoder:
 ![implementación con encoder](https://github.com/jlopeza2020/wiki/blob/main/conEncoder.jpg "Implementación con Encoder")
-
 
 # Semana del 1 al 7 de octubre 
 EL miércoles 3 de noviembre dimos el tema 4 de teoría que trata de los sensores de Color, luz y visión  y el jueves 4 se nos ha introducido y dejado toda la clase para empezar la práctica 6 que trata sobre el sensor de ultrasonidos.
