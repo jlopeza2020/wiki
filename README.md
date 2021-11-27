@@ -67,6 +67,14 @@ En la imagen se puede ver un LED rojo, una resistencia de 220 ohmios, un interru
 ![implementación p7](https://github.com/jlopeza2020/wiki/blob/main/p7.jpg "implementación p7")
 
 # Semana del 15 al 21 de noviembre
-El miércoles 17 de noviembre se nos ha introducido el tema 6
+El miércoles 17 de noviembre se nos ha introducido el tema 6 y el jueves 18 de noviembre tuvimos toda la clase para poder empezar con la práctica 8 que trata de controlar el riego de una planta.
+## Práctica 8:
+### 1. Implementación de la práctica
+
+# Semana del 22 al 28 de noviembre
+El miércoles 24 de noviembre hemos dado el tema 7 de teoría y el jueves 25 el tema 8 de teoría.
+
+# Semana del 29 de noviembre al 5 de diciembre
+Esta semana está dedicada para terminar las prácticas 5,6,7 y 8.
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
