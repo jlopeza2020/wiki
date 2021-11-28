@@ -70,6 +70,8 @@ En la imagen se puede ver un LED rojo, una resistencia de 220 ohmios, un interru
 El miércoles 17 de noviembre se nos ha introducido el tema 6 y el jueves 18 de noviembre tuvimos toda la clase para poder empezar con la práctica 8 que trata de controlar el riego de una planta.
 ## Práctica 8:
 ### 1. Implementación de la práctica
+En la imagen se puede ver el sensor de humedad conectado a una planta y los dos Ledes para facilitar al usuario el funcionamiento del sensor. Todo ello, junto a la caja que guarda a las plantas, conforma nuestro producto estrella: B-Water...plants.
+![implementación p8](https://github.com/jlopeza2020/wiki/blob/main/humedadPlanta.jpg "implementación p8")
 
 # Semana del 22 al 28 de noviembre
 El miércoles 24 de noviembre hemos dado el tema 7 de teoría y el jueves 25 el tema 8 de teoría.
