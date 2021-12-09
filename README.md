@@ -79,4 +79,14 @@ El miércoles 24 de noviembre hemos dado el tema 7 de teoría y el jueves 25 el 
 # Semana del 29 de noviembre al 5 de diciembre
 Esta semana está dedicada para terminar las prácticas 5,6,7 y 8.
 
+# Semana del 6 al 12 de diciembre 
+Esta semana solo hemos tenido clase el jueves 9 y se nos ha enunciado la práctica 9 que trata de conocer el funcionamiento del sensor de presencia PIR y de presión FSR.
+## Práctica 9:
+### 1. Implementación del ejercicio 1
+#### 1.1 Sensor de presión
+
+#### 1.2 Sensor de presencia 
+
+### 1. Implementación del ejercicio 2
+
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
