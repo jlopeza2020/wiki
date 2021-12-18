@@ -84,9 +84,22 @@ Esta semana solo hemos tenido clase el jueves 9 y se nos ha enunciado la prácti
 ## Práctica 9:
 ### 1. Implementación del ejercicio 1
 #### 1.1 Sensor de presión
-
+En la imagen se puede ver el sensor de presión conectado a la protoboard con su resistencia de 1M ohmio.
+![implementación sensorPresion](https://github.com/jlopeza2020/wiki/blob/main/fuerza.jpg "sensor de presión")
 #### 1.2 Sensor de presencia 
+En la imagen se puede ver el sensor de presencia conectado a la protoboard sobre una pila de libros para poder hacer las mediciones correctamente.
+![implementación sensorPresencia](https://github.com/jlopeza2020/wiki/blob/main/presencia.jpg "sensor de presencia")
 
-### 1. Implementación del ejercicio 2
+### 2 Implementación del ejercicio 2
+
+# Semana del 13 al 19 de diciembre 
+El miércoles 15 dimos el tema 9 de teoría que trata sobre los actuadores y el jueves 16 se nos introdujo la práctica 10 que trata también sobre actuadores
+
+## Práctica 10:
+### 1.Implementación de la práctica
+
+
+# Semana del 20 al 26 de diciembre
+
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
