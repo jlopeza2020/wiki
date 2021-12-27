@@ -92,8 +92,7 @@ En la imagen se puede ver el sensor de presencia conectado a la protoboard sobre
 
 ### 2. Implementación del ejercicio 2
 En la imagen se puede ver el sensor de presión, un LED amarillo que simula la luz que ilumina el jardín y el sensor de presencia apoyado sobre una pila de libros.
-![iluminación inteligente]( "iluminación inteligente")
-
+![iluminación inteligente](https://github.com/jlopeza2020/wiki/blob/main/eje2_p9.jpg "iluminación inteligente")
 
 # Semana del 13 al 19 de diciembre 
 El miércoles 15 dimos el tema 9 de teoría que trata sobre los actuadores y el jueves 16 se nos introdujo la práctica 10 que trata también sobre actuadores
@@ -101,8 +100,7 @@ El miércoles 15 dimos el tema 9 de teoría que trata sobre los actuadores y el 
 ## Práctica 10:
 ### 1.Implementación de la práctica
 
-
 # Semana del 20 al 26 de diciembre
-
+El día 22 fue de resolución de dudas y dio comienzo a las vacaciones de Navidad. ¡Felices Fiestas!
 
 ### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
