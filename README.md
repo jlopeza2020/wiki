@@ -91,6 +91,9 @@ En la imagen se puede ver el sensor de presencia conectado a la protoboard sobre
 ![implementación sensorPresencia](https://github.com/jlopeza2020/wiki/blob/main/presencia.jpg "sensor de presencia")
 
 ### 2. Implementación del ejercicio 2
+En la imagen se puede ver el sensor de presión, un LED amarillo que simula la luz que ilumina el jardín y el sensor de presencia apoyado sobre una pila de libros.
+![iluminación inteligente]( "iluminación inteligente")
+
 
 # Semana del 13 al 19 de diciembre 
 El miércoles 15 dimos el tema 9 de teoría que trata sobre los actuadores y el jueves 16 se nos introdujo la práctica 10 que trata también sobre actuadores
