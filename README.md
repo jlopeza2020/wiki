@@ -99,8 +99,10 @@ El miércoles 15 dimos el tema 9 de teoría que trata sobre los actuadores y el 
 
 ## Práctica 10:
 ### 1.Implementación de la práctica
+En la imagen se puede ver el servo conectado a la Raspberry y en él hay una flecha que he hecho de papel para a la hora de probar el sentido de giro, facilitar su visionado.
+![servo](https://github.com/jlopeza2020/wiki/blob/main/p10.jpg "servo")
 
 # Semana del 20 al 26 de diciembre
-El día 22 fue de resolución de dudas y dio comienzo a las vacaciones de Navidad. ¡Felices Fiestas!
+El día 22 fue de resolución de dudas y dio comienzo a las vacaciones de Navidad. 
 
-### Muy pronto llegarán nuevas noticias mías, ¡HASTA LA PRÓXIMA!
+# ¡ESTO HA SIDO TODO! Gracias por llegar hasta aquí y te deseo unas felices fiestas. 
