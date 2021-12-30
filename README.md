@@ -105,4 +105,4 @@ En la imagen se puede ver el servo conectado a la Raspberry y en él hay una fle
 # Semana del 20 al 26 de diciembre
 El día 22 fue de resolución de dudas y dio comienzo a las vacaciones de Navidad. 
 
-# ¡ESTO HA SIDO TODO! Gracias por llegar hasta aquí y te deseo unas felices fiestas. 
+## ¡ESTO HA SIDO TODO! Gracias por llegar hasta aquí y te deseo unas felices fiestas. 
